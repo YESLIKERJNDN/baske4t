@@ -7,7 +7,7 @@ if S then
     game.StarterGui:SetCore("SendNotification", {
         Title = "Silent Aim",
         Text = "Silent Aim was reset, Mode: BounceBot",
-        Duration = 3
+        Duration = 9
     })
 
     _G.Stepped = nil
